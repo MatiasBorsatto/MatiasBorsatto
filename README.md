@@ -1,6 +1,6 @@
 - 👋 Hola, Soy @MatiasBorsatto
 - 👀 Estoy interesado en el desarrollo web
-- 🌱 Estoy pronto a ser Full Stack Developer
+- 🌱 Pronto a ser Full Stack Developer
 - 📫 matiasborsatto1@gmail.com
 - Mi linkedin es www.linkedin.com/in/matias-borsatto
 
