@@ -2,7 +2,7 @@
 
 **Full Stack Developer | JavaScript, Angular, Node.js & SQL**
 
-Desarrollador especializado en la creación de aplicaciones web completas, utilizando **Angular** para el frontend y **Node.js** para el backend. Foco en **escalabilidad**, **mantenibilidad del código** y **buenas prácticas de desarrollo**.
+Desarrollador orientado a la creación de aplicaciones web completas, utilizando **Angular** para el frontend y **Node.js** para el backend. Foco en **escalabilidad**, **mantenibilidad del código** y **buenas prácticas de desarrollo**.
 
 ---
 
