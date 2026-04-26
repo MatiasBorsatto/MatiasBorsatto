@@ -1,6 +1,6 @@
 # 👨‍💻 Matías Borsatto
 
-**Full Stack Developer | JavaScript, Angular, Node.js & SQL**
+**Full Stack Developer | JavaScript, Vue, Node.js & SQL**
 
 Desarrollador orientado a la creación de aplicaciones web completas, utilizando **Angular** para el frontend y **Node.js** para el backend. Foco en **escalabilidad**, **mantenibilidad del código** y **buenas prácticas de desarrollo**.
 
@@ -8,7 +8,7 @@ Desarrollador orientado a la creación de aplicaciones web completas, utilizando
 
 ### 🛠️ Tecnologías principales
 
-- **Frontend:** Angular · HTML · CSS · JavaScript
+- **Frontend:** Vue · HTML · CSS · JavaScript
 - **Backend:** Node.js · Express
 - **Bases de datos:** SQL · PostgreSQL
 - **Control de versiones:** Git · GitHub
